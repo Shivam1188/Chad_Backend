@@ -1,0 +1,21 @@
+# Credentials
+service_account.json
+*.pem
+*.key
+.env
+.env.local
+credentials.json
+
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
